@@ -5,6 +5,8 @@ __pycache__/
 *.pyd
 *.pyc
 
+*.json
+
 # Tkinter window cache (if any)
 *.tkinter
 
