@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nacsa-treasure-vault",
+  "private_key_id": "afc6da1241e6f0feb51e6108ee9a322504bf6a62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjbLSeB9kGcOqd\natKo2/zse5KY0lbS836m1zFPFIESjKPCGcpAgEFr8qgAOk5fIOLkwq8uIKZwSDOM\nu0LTDL6uQ/jDC5VB9fbcN046V7jpQM9+Vd+eIUnkCmgpUYuzYTaonisC1Hwcu/Ei\nieKTaarJSdl4qMPEnyif3kaV2xfmSRzxqL4tjug8J5R69U/PCoEIjR1z14UJ71kg\nPD3rsYPND95CymZSyJFsJBNGpD88EiJzEzEzIEuY8Yxnmt2ZSVSMBhRXypxUNeXi\nWJfZo56Hj/UfxGyDAx+ssSjmvJtolKRr+fE5JlMIilWfaN4/jc/FOZLu2EXQ+dvU\nc3Nm1CE/AgMBAAECggEALCQQ9vxMqLo4DJPNWZGt05wfAQsTK4BcTakjJuZ1ZHK7\nSpKXt+tMgGE28nTNNVGXJ03UbkOgYQSHc/QifQncuQof92K6CmpqppmDliuahNoe\nEVQVhcsc/6y17K8bajSQRGQQXv/QlBxJadhPbBym5h590GLZGdMZcHDjpNdcMbVP\n2cInmDadBEEBq2MuAZjR/5+dUJCxQqlYG/Zj/1wRDQNczydLVpz9L5TTqBTuicS+\n1A1dZn98T9QQDcewJilL/lmXZhlgFjwYYzF8CpvBZ6skiOCmbUooTez/4HJ6BJk/\nWcFrTY8T9Sabv5CGPavGa/tRN6Szwj29nGMNeaA78QKBgQDgCaRE6MBcSczZUW6/\nHr3XMc1dwhwkEt031BFjzmdyQWZtio9SgFwr3lQjF+tP0mwFLI5lEuKNkisdRdwu\nOR4RtY/S9a2bB5ZlSnZB5Mek3Xp5Gt1G8EGQeEqiCmKSwXWkGA/5IuSB88WsIcht\ne2LtyyKOXMkY8g5ocGnR6Z2w7wKBgQC6vVcCwRGpZoynu+XzgP1HpHDueBuY6ebP\n84eMDyFLSL1vyV/A2Oeo37Bg6l+bzf84i+0zGQTffo05U/mtQld/jfZitVLwSHof\nlb0FMRqYgmnwnKaKVqaM1sTOyd00ggWoQtZsO2Pf5sNy306ECpcZ1TcoKYdbOPQH\nZMBJ3Gf0sQKBgQCS0h7CPhpaIM9LmA9Q1s+oqG2ixSP2DBrHjIX893ZZrTx4CzcT\n5SUCZsiS2wkOHaNG3MVQvciU6Layj2bVL/9hsa/Ym8Ky94z7QoovcsPXaoHpvc5H\nwAnnqL2YZd/ltzzmVhKZveEsvNnNjbIw9YyGs/ooe+waGf+ROCJRO51pJwKBgHeZ\niL7U1PEAIxnSuCZK+O0HnuS8vEAlnpSVTr0fe51yCxIrkU48HbMFATwxH+bz+oBG\n7jaJ0ZsqvFx5MjILiWrCi4kQxPvsD3tnNda7amM/M4bNbcSwVp9hdk9S7oAQvnrT\nw+0x5Hekno1WBD2BYuFCs77fSjfctD6AAr/LkDEhAoGBAKEMa/2UtrArZa+yeJ8v\nz6R7Bpsw9poDPvvnNAXNk6RuhsaWbn+dfclNaFivUhQPehC9WjMr2T4KYM45HTXB\nCtxmWEknTncncAAfEeUzD53D+VW7dPzGtlTtQI5qg4+RL713LkIOjHH0b4Zy84YV\npY63KkVivX2hvdmsjYNtHr8b\n-----END PRIVATE KEY-----\n",
+  "client_email": "nacsa-treasure-vault@nacsa-treasure-vault.iam.gserviceaccount.com",
+  "client_id": "102923171254441993425",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nacsa-treasure-vault%40nacsa-treasure-vault.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
