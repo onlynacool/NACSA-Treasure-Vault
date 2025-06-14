@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Tkinter window cache (if any)
+*.tkinter
+
+# Virtual environments
+venv/
+ENV/
+
+# Environment variables
+.env
+*.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*.bak
+*.zip
+
+# SQLite and cache
+*.sqlite3
+*.db
+.cache/
